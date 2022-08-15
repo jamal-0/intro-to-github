@@ -1,4 +1,4 @@
-# intro-to-github
+# intro-to-github : THIS IS A TEST
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
